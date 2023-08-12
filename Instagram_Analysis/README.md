@@ -1,4 +1,4 @@
-Instagram User Analysis
+# Instagram User Analysis
 
 
 In this project, I take the role of a social media consultant looking at a customer's Instagram account and giving advice on things like: 
